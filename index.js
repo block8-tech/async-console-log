@@ -1,0 +1,1 @@
+module.exports = {log: async (promise) => console.log(await promise)};
